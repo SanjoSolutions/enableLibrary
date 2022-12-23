@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@sanjo/exec": "file:libs/unnamed/packages/exec"
+  }
+}
